@@ -5,7 +5,7 @@ public class Kompliceret {
     public static void main(String[] args) {
 
 
-        int n = 20;
+        int n = 300;
         int counter = 0;
         long resultat = 0;
 
